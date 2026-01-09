@@ -1,7 +1,5 @@
-Here’s a **clean, professional, review-ready README.md** you can **copy-paste directly** into your project.
-It’s written to satisfy **faculty reviewers, teammates, and future recruiters**.
 
----
+
 
 ```md
 # Adaptive Network Monitoring Tool
