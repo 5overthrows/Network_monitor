@@ -79,11 +79,11 @@ adaptive-network-monitor/
 ├── README.md
 └── .gitignore
 
+````
 
+---
 
-
-
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Scapy** – packet capture & inspection
@@ -92,17 +92,17 @@ adaptive-network-monitor/
 - **Rich** – colored terminal output
 - **Git & GitHub** – version control & collaboration
 
+---
 
+## Setup Instructions (Kali Linux)
 
-## 🛠️ Setup Instructions (Kali Linux)
-
-### 1. Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/adaptive-network-monitor.git
 cd adaptive-network-monitor
 ````
 
-### 2. Create and activate virtual environment
+### Create and activate virtual environment
 
 ```bash
 python3 -m venv venv
@@ -182,5 +182,3 @@ Do **not** deploy on production networks without proper authorization.
 
 Developed as part of an academic cybersecurity project.
 Contributions and improvements are welcome.
-
-
