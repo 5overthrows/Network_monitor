@@ -52,32 +52,7 @@ Logging & Visualization
 
 ---
 
-## Project Structure
 
-```
-
-adaptive-network-monitor/
-├── capture/              # Packet sniffing logic
-│   └── packet_sniffer.py
-│
-├── features/             # Feature extraction from packets
-│   └── feature_extractor.py
-│
-├── detection/            # Rule-based anomaly detection
-│   └── rule_engine.py
-│
-├── dashboard/            # Visualization & analysis scripts
-│   └── visualize.py
-│
-├── logs/                 # Traffic logs (git-ignored)
-│   └── traffic.log
-│
-├── main.py               # Entry point
-├── requirements.txt      # Python dependencies
-├── README.md
-└── .gitignore
-
-````
 
 ---
 
